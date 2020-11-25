@@ -1,0 +1,54 @@
+__ matches Am
+_m matches Am
+__ matches in
+___ matches als
+__s matches als
+_l_ matches als
+___ matches das
+__s matches das
+___ matches Das
+__s matches Das
+D__ matches Das
+___ matches die
+___ matches und
+_n_ matches und
+____ matches sehr
+____e matches Leute
+__u__ matches Leute
+____e matches viele
+_i___ matches viele
+____e matches wurde
+_u___ matches wurde
+___a__ matches Anfang
+_a____ matches machte
+___e__ matches wütend
+_____h_ matches falsche
+__h____ matches Schritt
+________ matches Richtung
+_____e___ matches angesehen
+____e____ matches Universum
+__________ matches erschaffen
+____________ matches allenthalben
+Matching ____________ and allenthalben
+Matching __________ and erschaffen
+Matching ____e____ and Universum
+Matching _____e___ and angesehen
+Matching ________ and Richtung
+Matching __h____ and Schritt
+Matching _____h_ and falsche
+Matching _a____ and machte
+Matching ___e__ and wütend
+Matching ___a__ and Anfang
+Matching _u___ and wurde
+Matching _i___ and viele
+Matching __u__ and Leute
+Matching ____e and wurde
+Matching ____ and sehr
+Matching D__ and Das
+Matching _n_ and und
+Matching _l_ and als
+Matching __s and das
+Matching ___ and die
+Matching _m and Am
+Matching __ and in
+Am Anfang wurde das Universum erschaffen. Das machte viele Leute sehr wütend und wurde allenthalben als Schritt in die falsche Richtung angesehen.

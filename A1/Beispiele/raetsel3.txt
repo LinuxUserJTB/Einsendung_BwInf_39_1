@@ -1,0 +1,48 @@
+_e_ matches der
+_e_ matches der
+d__ matches der
+_i_ matches die
+d__ matches die
+__t matches ist
+__t matches mit
+_i_ matches mit
+_n_ matches und
+__n matches von
+__n matches von
+_________ matches besonders
+__________ matches Informatik
+__________g matches Darstellung
+__________g matches Speicherung
+__e________ matches Speicherung
+__________g matches Übertragung
+___r_______ matches Übertragung
+__e________ matches Übertragung
+___a________ matches Verarbeitung
+___a________ matches Verarbeitung
+____e_______ matches Wissenschaft
+______t______ matches automatischen
+___o_________ matches automatischen
+___o_________ matches Informationen
+______________ matches systematischen
+_______________ matches Digitalrechnern
+Matching _______________ and Digitalrechnern
+Matching ______________ and systematischen
+Matching ______t______ and automatischen
+Matching ___o_________ and Informationen
+Matching ___a________ and Verarbeitung
+Matching ___a________ and Verarbeitung
+Matching ____e_______ and Wissenschaft
+Matching ___r_______ and Übertragung
+Matching __e________ and Speicherung
+Matching __________g and Darstellung
+Matching __________ and Informatik
+Matching _________ and besonders
+Matching _n_ and und
+Matching _e_ and der
+Matching _e_ and der
+Matching d__ and die
+Matching _i_ and mit
+Matching __t and ist
+Matching __n and von
+Matching __n and von
+Informatik ist die Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen, besonders der automatischen Verarbeitung mit Digitalrechnern.

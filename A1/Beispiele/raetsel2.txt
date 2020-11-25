@@ -1,0 +1,42 @@
+_r matches er
+_n matches in
+_u matches zu
+__s matches Als
+_u_ matches aus
+___t matches Bett
+_a__ matches fand
+s___ matches sich
+____m matches einem
+e____ matches einem
+e____ matches eines
+_a___ matches Samsa
+__e___ matches Gregor
+_____m matches seinem
+_____n_ matches Morgens
+____m__ matches Träumen
+________ matches erwachte
+_________ matches unruhigen
+______e___ matches Ungeziefer
+_______e__ matches verwandelt
+___________ matches ungeheueren
+Matching ___________ and ungeheueren
+Matching ______e___ and Ungeziefer
+Matching _______e__ and verwandelt
+Matching _________ and unruhigen
+Matching ________ and erwachte
+Matching ____m__ and Träumen
+Matching _____n_ and Morgens
+Matching __e___ and Gregor
+Matching _____m and seinem
+Matching _a___ and Samsa
+Matching ____m and einem
+Matching e____ and eines
+Matching s___ and sich
+Matching _a__ and fand
+Matching ___t and Bett
+Matching _u_ and aus
+Matching __s and Als
+Matching _u and zu
+Matching _r and er
+Matching _n and in
+Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt.

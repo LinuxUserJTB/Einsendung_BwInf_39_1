@@ -1,0 +1,14 @@
+__ matches je
+__ matches Oh
+_h matches Oh
+__r matches für
+_a_ matches was
+___e matches eine
+__b___ matches Arbeit
+Matching __b___ and Arbeit
+Matching ___e and eine
+Matching _a_ and was
+Matching __r and für
+Matching _h and Oh
+Matching __ and je
+Oh je, was für eine Arbeit!

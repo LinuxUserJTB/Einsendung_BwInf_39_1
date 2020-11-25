@@ -1,0 +1,114 @@
+_s matches Es
+_n matches in
+i_ matches in
+_o matches so
+__s matches aus
+d__ matches der
+_i_ matches die
+_i_ matches die
+d__ matches die
+__n matches ein
+_i_ matches ein
+_i_ matches ein
+e__ matches ein
+_s_ matches ist
+__a matches Opa
+_i_ matches sie
+_i_ matches sie
+s__ matches sie
+__d matches und
+_n_ matches und
+__n matches von
+__s_ matches dass
+__n_ matches eine
+_i__ matches eine
+___d matches sind
+__n_ matches sind
+_i__ matches sind
+_i___ matches einer
+____e matches Liste
+_i___ matches Liste
+____n matches schon
+s____ matches schon
+____e matches sowie
+s____ matches sowie
+_i____ matches einige
+e_____ matches einige
+___d__ matches findet
+_i____ matches findet
+_____n matches Jürgen
+__t___ matches Rätsel
+_____n matches sollen
+s_____ matches sollen
+_____n matches werden
+___d__ matches werden
+______n matches ergeben
+___e___ matches ergeben
+_r_____ matches ergeben
+______n matches gegeben
+___e___ matches gegeben
+___t___ matches lustige
+______n matches Wörtern
+___t___ matches Wörtern
+_____e__ matches Apotheke
+_______t matches blättert
+_____e__ matches blättert
+_______t matches gebracht
+__b_____ matches gebracht
+___h____ matches richtige
+_______b__ matches Buchstaben
+_e________ matches Geschichte
+_______b__ matches vorgegeben
+______e___ matches vorgegeben
+__________n matches Leerzeichen
+_e_________ matches Leerzeichen
+__________e matches Reihenfolge
+_e_________ matches Reihenfolge
+__________n matches Satzzeichen
+_a_________ matches Satzzeichen
+_e_________ matches Zeitschrift
+Matching _a_________ and Satzzeichen
+Matching __________n and Leerzeichen
+Matching __________e and Reihenfolge
+Matching _e_________ and Zeitschrift
+Matching _e________ and Geschichte
+Matching ______e___ and vorgegeben
+Matching _______b__ and Buchstaben
+Matching __b_____ and gebracht
+Matching _______t and blättert
+Matching _____e__ and Apotheke
+Matching ___h____ and richtige
+Matching _r_____ and ergeben
+Matching ___e___ and gegeben
+Matching ______n and Wörtern
+Matching ___t___ and lustige
+Matching s_____ and sollen
+Matching e_____ and einige
+Matching _i____ and findet
+Matching ___d__ and werden
+Matching _____n and Jürgen
+Matching __t___ and Rätsel
+Matching ____n and schon
+Matching s____ and sowie
+Matching ____e and Liste
+Matching _i___ and einer
+Matching __s_ and dass
+Matching ___d and sind
+Matching __n_ and eine
+Matching _i__ and eine
+Matching s__ and sie
+Matching e__ and ein
+Matching _i_ and die
+Matching _i_ and die
+Matching d__ and der
+Matching __n and von
+Matching _s_ and ist
+Matching _n_ and und
+Matching __s and aus
+Matching __d and und
+Matching __a and Opa
+Matching i_ and in
+Matching _s and Es
+Matching _o and so
+Matching _n and in
+Opa Jürgen blättert in einer Zeitschrift aus der Apotheke und findet ein Rätsel. Es ist eine Liste von Wörtern gegeben, die in die richtige Reihenfolge gebracht werden sollen, so dass sie eine lustige Geschichte ergeben. Leerzeichen und Satzzeichen sowie einige Buchstaben sind schon vorgegeben.
